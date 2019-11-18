@@ -1,0 +1,27 @@
+{
+    "title" : "<strong>La</strong> santé <strong>avant</strong> tout",
+    "desc" : "Pour continuer d'agir, votre don est indispensable",
+    "items" : [
+        {
+            "amount": "80",
+            "reduc": "20€ après la réduction fiscale",
+            "text": "Coût journalier moyen de mise à l’abri d’un mineur non accompagné (mineur étranger non accompagné)",
+            "label": "je donne",
+            "url": "http"
+        },
+        {
+            "amount": "150",
+            "reduc": "37€ après la réduction fiscale",
+            "text": "Coût de la prise en charge  de trois personnes (accueil, soins, accompagnement social en France)",
+            "label": "je donne",
+            "url": "http"
+        },
+        {
+            "amount": "200",
+            "reduc": "50€ après la réduction fiscale",
+            "text": "Coût des soins vitaux  pour 50 enfants souffrant  de malnutrition au Yémen. ",
+            "label": "je donne",
+            "url": "http"
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+        "meta": {
+                "title": "Médecins du monde - Campagne Noel 2019",
+                "description": "Découvrez la campagne de Médecins du Monde sur l’état de la santé dans le monde autour de chiffres qui font mal. Mobilisez-vous pour que tout enfant, toute femme et tout homme, ici et ailleurs, ait les mêmes chances de pouvoir être soigné"
+        },
+        "url": {
+                "contact": "https://www.medecinsdumonde.org/fr/contact",
+                "video": "https://www.youtube.com/embed/mObDGkJnzTg",
+                "give_1": "https://dons.medecinsdumonde.org/ab?cids[]=80&cids[]=93&cids[]=94&reserved_code_origine=196217&amount=9000",
+                "give_2": "https://dons.medecinsdumonde.org/ab?cids[]=80&cids[]=93&cids[]=94&reserved_code_origine=196217&amount=15000",
+                "give_3": "https://dons.medecinsdumonde.org/ab?cids[]=80&cids[]=93&cids[]=94&reserved_code_origine=196217&amount=20000"
+        },
+        "social": [
+                {
+                        "id": "twitter",
+                        "url": "https://www.twitter.com"
+                },
+                {
+                        "id": "facebook",
+                        "url": "https://www.facebook.com"
+                },
+                {
+                        "id": "youtube",
+                        "url": "https://www.youtube.com"
+                },
+                {
+                        "id": "instagram",
+                        "url": "https://www.instagram.com"
+                }
+        ],
+        "hero_hashtag" : "#onsenfout",
+        "hero_punchline":"Tout ce qui compte pour nous, c'est leur santé",
+        "footer": "Si vous êtes imposable sur le revenu, vous bénéficiez d'une réduction d'impôt de 75% du montant de votre don dans la limite de 546 euros. Au-delà, la réduction est de 66%, dans la limite de 20% de votre revenu imposable.<br>Association Loi 1901 | Numéro d’enregistrement et SIREN : FR 04 321 018 749 - 321 018 749"
+}
