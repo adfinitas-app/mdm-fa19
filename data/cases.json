@@ -1,6 +1,6 @@
 {
-    "title": "<strong>La</strong> santé <strong>avant</strong> tout",
-    "desc": "On s'en fout, tout ce qui compte pour nous c'est leur santé.",
+    "title": "<strong>LEUR</strong> santé <strong>avant</strong> tout",
+    "desc": "À chaque détresse, en France et dans le monde, nous répondons par des actions. Découvrez les.",
     "items" : [
         {
             "thumb_alt"         : "Sans-abri en france",
@@ -28,7 +28,7 @@
             "case_give_amount"  : "100",
             "case_give_reduc"   : "25€ après réduction fiscale",
             "case_give_what"    : "vous permettez 3 permanences mobiles par semaine pendant 1 mois auprès des personnes sans-abri.",
-            "case_give_url"     : "httooeu"
+            "case_give_url"     : "https://dons.medecinsdumonde.org/ab?cids[]=98&cids[]=93&cids[]=94&reserved_code_origine=196242&amount=10000"
         },
 
 
@@ -45,7 +45,7 @@
             "case_title"        : "Guerre au<br>Yémen",
             "case_hashtag"      : "#onsenfout",
             "case_intro"        : "s’ils sont à l’autre bout de la Terre, s’ils sont de telle ou telle religion, et si leur père fait partie d’une milice rebelle.<br><strong>Tout ce qui compte pour nous, c’est leur santé.</strong>",
-            "case_text"         : "Lorsque son oncle est décédé il y a trois mois, mon jeune fils, Hamzi, était tellement affecté que nous pensions qu’il avait perdu la raison ou qu’il était épileptique. Il était devenu violent, il souffrait de terreurs nocturnes et avait perdu l’appétit. Au centre de soins de Médecins du Monde, l’équipe en charge de la santé mentale et psychosociale a décelé un trouble de conversion. En moins de 6 séances, il ont fait disparaître le trouble. Ils ont soigné Hazim et nous ont rendus heureux.",
+            "case_text"         : "Lorsque son oncle est décédé il y a trois mois, mon jeune fils, Hazim, était tellement affecté que nous pensions qu’il avait perdu la raison ou qu’il était épileptique. Il était devenu violent, il souffrait de terreurs nocturnes et avait perdu l’appétit. Au centre de soins de Médecins du Monde, l’équipe en charge de la santé mentale et psychosociale a décelé un trouble de conversion. En moins de 6 séances, il ont fait disparaître le trouble. Ils ont soigné Hazim et nous ont rendus heureux.",
             "case_author"       : "<b>Père d'Hazim</b><br><i>enfant en bas âge</i>",
             "case_action_title" : "Notre action",
             "case_action_intro" : "Au Yémen, Médecins du Monde porte secours aux populations victimes du conflit en appuyant 16 structures de santé.",
@@ -61,7 +61,7 @@
             "case_give_amount"  : "160",
             "case_give_reduc"   : "40€ après réduction fiscale",
             "case_give_what"    : "vous financez des soins pour 40 enfants souffrant de malnutrition.",
-            "case_give_url"     : "httooeu"
+            "case_give_url"     : "https://dons.medecinsdumonde.org/ab?cids[]=98&cids[]=93&cids[]=94&reserved_code_origine=196242&amount=16000"
             
         },
 
@@ -92,7 +92,7 @@
             "case_give_amount": "100",
             "case_give_reduc": "25€ après réduction fiscale",
             "case_give_what": "vous financez 2h d’interprétariat pour comprendre et être compris dans l’un de nos centres de soins",
-            "case_give_url": "httooeu"
+            "case_give_url": "https://dons.medecinsdumonde.org/ab?cids[]=98&cids[]=93&cids[]=94&reserved_code_origine=196242&amount=10000"
         },
 
         {
@@ -123,7 +123,7 @@
             "case_give_amount": "160",
             "case_give_reduc": "40€ après réduction fiscale",
             "case_give_what": "vous financez des kits hygiène pour 8 familles vivant en bidonvilles.",
-            "case_give_url": "httooeu"
+            "case_give_url": "https://dons.medecinsdumonde.org/ab?cids[]=98&cids[]=93&cids[]=94&reserved_code_origine=196242&amount=16000"
         }
     ]
 }

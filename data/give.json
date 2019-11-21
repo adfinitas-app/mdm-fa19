@@ -7,21 +7,21 @@
             "reduc": "20€ après la réduction fiscale",
             "text": "Coût journalier moyen de mise à l’abri d’un mineur non accompagné (mineur étranger non accompagné)",
             "label": "je donne",
-            "url": "http"
+            "url": "https://dons.medecinsdumonde.org/ab?cids[]=98&cids[]=93&cids[]=94&reserved_code_origine=196242&amount=9000"
         },
         {
             "amount": "150",
             "reduc": "37€ après la réduction fiscale",
-            "text": "Coût de la prise en charge  de trois personnes (accueil, soins, accompagnement social en France)",
+            "text": "Coût de la prise en charge de trois personnes (accueil, soins, accompagnement social en France)",
             "label": "je donne",
-            "url": "http"
+            "url": "https://dons.medecinsdumonde.org/ab?cids[]=98&cids[]=93&cids[]=94&reserved_code_origine=196242&amount=15000"
         },
         {
             "amount": "200",
             "reduc": "50€ après la réduction fiscale",
-            "text": "Coût des soins vitaux  pour 50 enfants souffrant  de malnutrition au Yémen. ",
+            "text": "Coût des soins vitaux  pour 50 enfants souffrant de malnutrition au Yémen. ",
             "label": "je donne",
-            "url": "http"
+            "url": "https://dons.medecinsdumonde.org/ab?cids[]=98&cids[]=93&cids[]=94&reserved_code_origine=196242&amount=20000"
         }
     ]
 }
