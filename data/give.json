@@ -1,26 +1,26 @@
 {
-    "title" : "<strong>La</strong> santé <strong>avant</strong> tout",
-    "desc" : "Pour continuer d'agir, votre don est indispensable",
+    "title" : "<strong>Leur</strong> santé <strong>avant</strong> tout",
+    "desc" : "Pour agir, nous comptons sur vous. Donnez.",
     "items" : [
         {
-            "amount": "80",
-            "reduc": "20€ après la réduction fiscale",
-            "text": "Coût journalier moyen de mise à l’abri d’un mineur non accompagné (mineur étranger non accompagné)",
-            "label": "je donne",
+            "amount": "90",
+            "reduc": "22€ après la réduction fiscale",
+            "text": "Prix journalier moyen de mise à l’abri d’un mineur étranger non accompagné",
+            "label": "je donne maintenant",
             "url": "https://dons.medecinsdumonde.org/ab?cids[]=98&cids[]=93&cids[]=94&reserved_code_origine=196242&amount=9000"
         },
         {
             "amount": "150",
             "reduc": "37€ après la réduction fiscale",
-            "text": "Coût de la prise en charge de trois personnes (accueil, soins, accompagnement social en France)",
-            "label": "je donne",
+            "text": "Prise en charge de trois personnes (accueil, soins, accompagnement social).",
+            "label": "je donne maintenant",
             "url": "https://dons.medecinsdumonde.org/ab?cids[]=98&cids[]=93&cids[]=94&reserved_code_origine=196242&amount=15000"
         },
         {
             "amount": "200",
             "reduc": "50€ après la réduction fiscale",
-            "text": "Coût des soins vitaux  pour 50 enfants souffrant de malnutrition au Yémen. ",
-            "label": "je donne",
+            "text": "3 permanences mobiles / semaine pendant deux mois auprès des personnes sans-abris.",
+            "label": "je donne maintenant",
             "url": "https://dons.medecinsdumonde.org/ab?cids[]=98&cids[]=93&cids[]=94&reserved_code_origine=196242&amount=20000"
         }
     ]

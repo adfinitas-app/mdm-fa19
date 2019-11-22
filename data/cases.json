@@ -6,7 +6,7 @@
             "thumb_alt"         : "Sans-abri en france",
             "thumb_number"      : "143 000",
             "thumb_desc"        : "personnes dont 30 000 mineurs sont sans domicile fixe.",
-            "thumb_label"       : "Je découve le témoignage",
+            "thumb_label"       : "Je découvre le témoignage",
             "thumb_img"         : "images/thumb-sdf.jpg",
 
             "case_number"       : "143 000",
@@ -35,12 +35,12 @@
         {
             "thumb_alt"         : "Crise au Yemen",
             "thumb_number"      : "80<sup>%</sup>",
-            "thumb_desc"        : "des yéménites ont besoin d’une aide humanitaire d’urgence.",
-            "thumb_label"       : "Je découve le témoignage",
+            "thumb_desc"        : "des Yéménites ont besoin d’une aide humanitaire d’urgence.",
+            "thumb_label"       : "Je découvre le témoignage",
             "thumb_img"         : "images/thumb-yemen.jpg",
 
             "case_number"       : "80<sup>%</sup>",
-            "case_punchline"    : "des yéménites ont besoin d’une aide humanitaire d’urgence.",
+            "case_punchline"    : "des Yéménites ont besoin d’une aide humanitaire d’urgence.",
             "case_img"          : "images/case-yemen.jpg",
             "case_title"        : "Guerre au<br>Yémen",
             "case_hashtag"      : "#onsenfout",
@@ -69,7 +69,7 @@
             "thumb_alt": "Migrants en France",
             "thumb_number": "85<sup>%</sup>",
             "thumb_desc": "des personnes relevant de l’Aide Médicale d’État (AME) n’ont pas leurs droits ouverts.",
-            "thumb_label": "Je découve le témoignage",
+            "thumb_label": "Je découvre le témoignage",
             "thumb_img": "images/thumb-migrant.jpg",
 
             "case_number": "85<sup>%</sup>",
@@ -99,7 +99,7 @@
             "thumb_alt": "Personnes en bidonville",
             "thumb_number": "68<sup>%</sup>",
             "thumb_desc": "des bidonvilles en France n'ont pas accès à l'eau et 41% n'ont pas de système d'évacuation des déchets.",
-            "thumb_label": "Je découve le témoignage",
+            "thumb_label": "Je découvre le témoignage",
             "thumb_img": "images/thumb-bidonville.jpg",
 
             "case_number": "68<sup>%</sup>",
