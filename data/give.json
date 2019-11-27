@@ -6,21 +6,21 @@
             "amount": "90",
             "reduc": "22€ après la réduction fiscale",
             "text": "Prix journalier moyen de mise à l’abri d’un mineur étranger non accompagné",
-            "label": "je donne maintenant",
+            "label": "je donne",
             "url": "https://dons.medecinsdumonde.org/ab?cids[]=98&cids[]=93&cids[]=94&reserved_code_origine=196242&amount=9000"
         },
         {
             "amount": "150",
             "reduc": "37€ après la réduction fiscale",
             "text": "Prise en charge de trois personnes (accueil, soins, accompagnement social).",
-            "label": "je donne maintenant",
+            "label": "je donne",
             "url": "https://dons.medecinsdumonde.org/ab?cids[]=98&cids[]=93&cids[]=94&reserved_code_origine=196242&amount=15000"
         },
         {
             "amount": "200",
             "reduc": "50€ après la réduction fiscale",
             "text": "3 permanences mobiles / semaine pendant deux mois auprès des personnes sans-abris.",
-            "label": "je donne maintenant",
+            "label": "je donne",
             "url": "https://dons.medecinsdumonde.org/ab?cids[]=98&cids[]=93&cids[]=94&reserved_code_origine=196242&amount=20000"
         }
     ]
