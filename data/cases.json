@@ -3,7 +3,7 @@
     "desc": "À chaque détresse, en France et dans le monde, nous répondons par des actions. Découvrez les.",
     "items" : [
         {
-            "thumb_alt"         : "Sans-abri en france",
+            "thumb_alt"         : "Sans-abri en France",
             "thumb_number"      : "143 000",
             "thumb_desc"        : "personnes dont 30 000 mineurs sont sans domicile fixe.",
             "thumb_label"       : "Je découvre le témoignage",
@@ -12,7 +12,7 @@
             "case_number"       : "143 000",
             "case_punchline"    : "personnes dont 30 000 mineurs sont sans domicile fixe.",
             "case_img"          : "images/case-sdf.jpg",
-            "case_title"        : "Sans-abri en france",
+            "case_title"        : "Sans-abri en France",
             "case_hashtag"      : "#onsenfout",
             "case_intro"        : "s’ils bloquent l’entrée d’un magasin, s’ils parlent trop fort et s’ils font la manche pour survivre.<br><strong>Ce qui compte pour nous, c’est leur santé.</strong>",
             "case_text"         : "On ne peut pas considérer que les solutions soient dignes et efficaces. Qu’il y ait plus de places d’hébergement que l’année dernière est une chose positive, certes. Néanmoins, les flux sont connus et anticipés par les pouvoirs publics. Et force est de constater aujourd’hui que les places créées sont insuffisantes. Par ailleurs, dire que toutes les familles repérées se voient proposer une solution d’hébergement, c’est faux.",
@@ -33,7 +33,7 @@
 
 
         {
-            "thumb_alt"         : "Crise au Yemen",
+            "thumb_alt"         : "Crise au Yémen",
             "thumb_number"      : "80<sup>%</sup>",
             "thumb_desc"        : "des Yéménites ont besoin d’une aide humanitaire d’urgence.",
             "thumb_label"       : "Je découvre le témoignage",
@@ -96,7 +96,7 @@
         },
 
         {
-            "thumb_alt": "Personnes en bidonville",
+            "thumb_alt": "Personnes en bidonvilles",
             "thumb_number": "68<sup>%</sup>",
             "thumb_desc": "des bidonvilles en France n'ont pas accès à l'eau et 41% n'ont pas de système d'évacuation des déchets.",
             "thumb_label": "Je découvre le témoignage",
@@ -105,7 +105,7 @@
             "case_number": "68<sup>%</sup>",
             "case_punchline": "des bidonvilles en France n'ont pas accès à l'eau et 41% n'ont pas de système d'évacuation des déchets.",
             "case_img": "images/case-bidonville.jpg",
-            "case_title": "Personnes en bidonville",
+            "case_title": "Personnes en bidonvilles",
             "case_hashtag": "#onsenfout",
             "case_intro": "s’ils ne parlent pas la même langue, s’ils vivent dans une caravane et si le voisinage veut les voir partir.<br><strong>Ce qui compte pour nous, c’est leur santé.</strong>",
             "case_text": "Cette femme vit dans un hangar, elle est malade et suite à une longue hospitalisation fin 2017, elle doit être suivie. Mais ses conditions de vie précaire et l’incendie de son précédent lieu de vie lui ont faire manquer plusieurs consultations à l’hôpital. Suite à une nouvelle expulsion, et une mise à la rue par les forces de l’ordre avec sa famille, elle évoque de grosses difficultés à suivre son traitement, être découragée, et prête à renoncer aux soins. Pourtant une hospitalisation est à nouveau nécessaire.",
