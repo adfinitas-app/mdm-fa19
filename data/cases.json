@@ -28,7 +28,7 @@
             "case_give_amount"  : "100",
             "case_give_reduc"   : "25€ après réduction fiscale",
             "case_give_what"    : "vous permettez 3 permanences mobiles par semaine pendant 1 mois auprès des personnes sans-abri.",
-            "case_give_url"     : "https://dons.medecinsdumonde.org/ab?cids[]=98&cids[]=93&cids[]=94&reserved_code_origine=196242&amount=10000"
+            "case_give_url"     : "https://dons.medecinsdumonde.org/80/?reserved_code_origine=206305&amount=10000"
         },
 
 
@@ -61,7 +61,7 @@
             "case_give_amount"  : "160",
             "case_give_reduc"   : "40€ après réduction fiscale",
             "case_give_what"    : "vous financez des soins pour 40 enfants souffrant de malnutrition.",
-            "case_give_url"     : "https://dons.medecinsdumonde.org/ab?cids[]=98&cids[]=93&cids[]=94&reserved_code_origine=196242&amount=16000"
+            "case_give_url"     : "https://dons.medecinsdumonde.org/80/?reserved_code_origine=206305&amount=16000"
             
         },
 
@@ -92,7 +92,7 @@
             "case_give_amount": "100",
             "case_give_reduc": "25€ après réduction fiscale",
             "case_give_what": "vous financez 2h d’interprétariat pour comprendre et être compris dans l’un de nos centres de soins",
-            "case_give_url": "https://dons.medecinsdumonde.org/ab?cids[]=98&cids[]=93&cids[]=94&reserved_code_origine=196242&amount=10000"
+            "case_give_url": "https://dons.medecinsdumonde.org/80/?reserved_code_origine=206305&amount=10000"
         },
 
         {
@@ -123,7 +123,7 @@
             "case_give_amount": "160",
             "case_give_reduc": "40€ après réduction fiscale",
             "case_give_what": "vous financez des kits hygiène pour 8 familles vivant en bidonvilles.",
-            "case_give_url": "https://dons.medecinsdumonde.org/ab?cids[]=98&cids[]=93&cids[]=94&reserved_code_origine=196242&amount=16000"
+            "case_give_url": "https://dons.medecinsdumonde.org/80/?reserved_code_origine=206305&amount=16000"
         }
     ]
 }
